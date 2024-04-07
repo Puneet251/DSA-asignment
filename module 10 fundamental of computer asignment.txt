@@ -1,0 +1,15 @@
+Ans1: computer is multitasking. this is doing arithmatic and other work easily. understand power is brilient. this is too fast. this is minimum chance to make mistake.
+
+Ans2:   Ram is a random access memory. its a primary memory.
+
+Ans3:  data stored in secondary memory which is storage device as SSD, HDD ,pen drive and flopy disk many storage device.
+
+Ans4:  many input device is available in computer hardware in which one of the input device is availble Keyboard which is given input text.
+
+Ans5:  which device is given output that is output device as moniter ,desktop ,printer etc
+
+Ans6: mouse is pointer device that allows a user to move the curser or pointer on the screen 
+
+Ans7: binary lanuage is directly understand by the computer without the transtlation program 
+
+Ans8: which device is given input in coputer is called input device as keyboard , mouse, touchscreen etc
